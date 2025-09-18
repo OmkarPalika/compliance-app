@@ -11,7 +11,22 @@ interface DocumentType {
   title: string;
   language: 'en' | 'ar';
   uploadDate: string;
-  items: Array<{ status: 'yes' | 'no' | 'pending' }>;
+  items: Array<{
+    ruleId: string;
+    docRef: string;
+    textEn: string;
+    textAr: string;
+    status: 'yes' | 'no' | 'pending';
+    category: string;
+    parent: string | null;
+    parentText?: string;
+    version: number;
+    changes: Array<{
+      date: string;
+      previousText: string;
+      newText: string;
+    }>;
+  }>;
   archived?: boolean;
 }
 
@@ -57,13 +72,28 @@ export async function getFilteredDocuments({
     .limit(limit)
     .lean();
 
-  // Transform documents to match expected type
+  // Transform documents to match expected type and serialize all nested objects
   const documents: DocumentType[] = rawDocuments.map(doc => ({
     _id: (doc._id as Types.ObjectId).toString(),
     title: doc.title,
     language: doc.language,
     uploadDate: doc.uploadDate.toISOString(),
-    items: doc.items,
+    items: doc.items.map((item: any) => ({
+      ruleId: item.ruleId,
+      docRef: item.docRef,
+      textEn: item.textEn,
+      textAr: item.textAr || '',
+      status: item.status,
+      category: item.category,
+      parent: item.parent,
+      parentText: item.parentText,
+      version: item.version,
+      changes: item.changes?.map((change: any) => ({
+        date: change.date?.toISOString(),
+        previousText: change.previousText,
+        newText: change.newText
+      })) || []
+    })),
     archived: doc.archived
   }));
 

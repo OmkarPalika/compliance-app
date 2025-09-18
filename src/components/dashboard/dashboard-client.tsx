@@ -10,7 +10,22 @@ interface DocumentType {
   title: string;
   language: 'en' | 'ar';
   uploadDate: string;
-  items: Array<{ status: 'yes' | 'no' | 'pending' }>;
+  items: Array<{
+    ruleId: string;
+    docRef: string;
+    textEn: string;
+    textAr: string;
+    status: 'yes' | 'no' | 'pending';
+    category: string;
+    parent: string | null;
+    parentText?: string;
+    version: number;
+    changes: Array<{
+      date: string;
+      previousText: string;
+      newText: string;
+    }>;
+  }>;
   archived?: boolean;
 }
 

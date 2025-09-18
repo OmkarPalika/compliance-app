@@ -1,0 +1,6373 @@
+{
+  "CBUAE Draft Guidance on CDD_KYC and Recordkeeping for external consultation-2024'.pdf": {
+    "totalPages": 40,
+    "pages": [
+      {
+        "pageNumber": 1,
+        "totalTexts": 35,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "CBUAE Classification: Restricted   RESTRICTED: Not to be disclosed outside the Financial Institution"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 2,
+        "totalTexts": 340,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  2   of  40         CBUAE Classification: Restricted   Contents   1.   Introduction   ........."
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 3,
+        "totalTexts": 51,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  3   of  40         CBUAE Classification: Restricted   3.10.   Third - Party Reliance   ......."
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 4,
+        "totalTexts": 228,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  4   of  40         CBUAE Classification: Restricted   1.   Introduction   Conducting customer "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 5,
+        "totalTexts": 155,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  5   of  40         CBUAE Classification: Restricted   Guidance neither constitutes additional "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 6,
+        "totalTexts": 179,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  6   of  40         CBUAE Classification: Restricted   •   Federal Decree - Law No. (14) of 201"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 7,
+        "totalTexts": 231,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  7   of  40         CBUAE Classification: Restricted   SAR   Suspicious activity report   SDD  "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 8,
+        "totalTexts": 308,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  8   of  40         CBUAE Classification: Restricted   understanding the nature of a customer’s"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 9,
+        "totalTexts": 259,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  9   of  40         CBUAE Classification: Restricted   inconsistent with their historical profi"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 10,
+        "totalTexts": 286,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  10   of  40         CBUAE Classification: Restricted   •   W hy a specific  customer   was  on"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 11,
+        "totalTexts": 161,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  11   of  40         CBUAE Classification: Restricted   •   Carrying out occasional transaction"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 12,
+        "totalTexts": 283,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  12   of  40         CBUAE Classification: Restricted   It is important to remind staff that  C"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 13,
+        "totalTexts": 284,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  13   of  40         CBUAE Classification: Restricted   In case, the LFI has already commenced "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 14,
+        "totalTexts": 240,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  14   of  40         CBUAE Classification: Restricted   •   Name and address of employer ;    •"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 15,
+        "totalTexts": 254,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  15   of  40         CBUAE Classification: Restricted   For all   relevant   individuals   asso"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 16,
+        "totalTexts": 263,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  16   of  40         CBUAE Classification: Restricted   •   To confirm the date and place of bi"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 17,
+        "totalTexts": 232,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  17   of  40         CBUAE Classification: Restricted   financial institutions offer customers "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 18,
+        "totalTexts": 196,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  18   of  40         CBUAE Classification: Restricted   See   the CBUAE’s   Guidance for L FIs "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 19,
+        "totalTexts": 245,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  19   of  40         CBUAE Classification: Restricted   o   Where no individual meets this desc"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 20,
+        "totalTexts": 260,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  20   of  40         CBUAE Classification: Restricted   AML/CFT Guidelines for Financial Instit"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 21,
+        "totalTexts": 226,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  21   of  40         CBUAE Classification: Restricted   and  UBOs , described  in section 3.2.5"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 22,
+        "totalTexts": 239,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  22   of  40         CBUAE Classification: Restricted   Obtaining a sufficient understanding of"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 23,
+        "totalTexts": 211,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  23   of  40         CBUAE Classification: Restricted   •   Depending on an LFIs risk tolerance"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 24,
+        "totalTexts": 238,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  24   of  40         CBUAE Classification: Restricted   A g eographic component represents an i"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 25,
+        "totalTexts": 199,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  25   of  40         CBUAE Classification: Restricted   •   Customer where t he LFI is unable t"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 26,
+        "totalTexts": 272,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  26   of  40         CBUAE Classification: Restricted   •   A c ustomer requests to use higher "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 27,
+        "totalTexts": 253,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  27   of  40         CBUAE Classification: Restricted   discrepancies   or red flags  cannot be"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 28,
+        "totalTexts": 212,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  28   of  40         CBUAE Classification: Restricted   As per Article 4.3   of the AML - CFT D"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 29,
+        "totalTexts": 240,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  29   of  40         CBUAE Classification: Restricted   •   A customer or any  UBO   of the cus"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 30,
+        "totalTexts": 219,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  30   of  40         CBUAE Classification: Restricted   •   The customer operates in or does bu"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 31,
+        "totalTexts": 249,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  31   of  40         CBUAE Classification: Restricted   minimis   percentage thresholds , as   "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 32,
+        "totalTexts": 198,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  32   of  40         CBUAE Classification: Restricted   •   Telephone contact with the customer"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 33,
+        "totalTexts": 246,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  33   of  40         CBUAE Classification: Restricted   •   Names of relevant persons holding s"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 34,
+        "totalTexts": 228,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  34   of  40         CBUAE Classification: Restricted   As per  A rticle 13.1 of the AML - CFT "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 35,
+        "totalTexts": 232,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  35   of  40         CBUAE Classification: Restricted   b)   LFIs   should take adequate steps "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 36,
+        "totalTexts": 165,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  36   of  40         CBUAE Classification: Restricted     4.   Record - keeping   According to "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 37,
+        "totalTexts": 148,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  37   of  40         CBUAE Classification: Restricted   other fo rm of termination of a legal p"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 38,
+        "totalTexts": 109,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  38   of  40         CBUAE Classification: Restricted   should also keep detailed records of an"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 39,
+        "totalTexts": 258,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  39   of  40         CBUAE Classification: Restricted     Annex 1. CDD/KYC Red Flags    LFI s  "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 40,
+        "totalTexts": 236,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Page  40   of  40         CBUAE Classification: Restricted   •   A customer provides an insufficient"
+          ],
+          "mixed": []
+        }
+      }
+    ]
+  },
+  "CBUAE_EN_5808_VER1 (22).pdf": {
+    "totalPages": 55,
+    "pages": [
+      {
+        "pageNumber": 1,
+        "totalTexts": 67,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "CBUAE Classification: Public                               ظن ـــــ ما   طسو ـــــ مأتلا ءا ـــــ ني"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 2,
+        "totalTexts": 284,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "2",
+              "text": "CBUAE Classification: Public   تاـــــيوتحملا   CO..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "2     CBUAE Classification: Public   تاـــــيوتحملا   CONTENTS   ضوملا ـــــــــــ عو   ةحفصلا   Pag"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 3,
+        "totalTexts": 172,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "3",
+              "text": "CBUAE Classification: Public                      ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "3     CBUAE Classification: Public                                                                  "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 4,
+        "totalTexts": 345,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "4",
+              "text": "CBUAE Classification: Public       :مقر ميمعت   1 ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "4     CBUAE Classification: Public       :مقر ميمعت   1 / 2024       1/2024   Circular   No.        "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 5,
+        "totalTexts": 382,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "5",
+              "text": "CBUAE Classification: Public       ق   ن م   ا ه ع..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "5     CBUAE Classification: Public       ق   ن م   ا ه ع ا ب ت ا   ب ج ا و ل ا     ب  باحصأو نيمأتلا"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 6,
+        "totalTexts": 393,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "6",
+              "text": "CBUAE Classification: Public    ىلإ دانتسلإاب كلذو..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "6     CBUAE Classification: Public    ىلإ دانتسلإاب كلذو و مجحو ةعيبط ةجرد       ق ع ت  .مهلامعأ د و"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 7,
+        "totalTexts": 502,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "7",
+              "text": "CBUAE Classification: Public   قيبطتلا قاطن   Scop..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "7     CBUAE Classification: Public   قيبطتلا قاطن   Scope of Application         1 .   ؛ةلودلا يف ني"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 8,
+        "totalTexts": 473,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "8",
+              "text": "CBUAE Classification: Public   و موسرملا   ب ( مقر..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "8     CBUAE Classification: Public   و موسرملا   ب ( مقر يداحتا نوناــق 48  ةنــسل ) 2023   .نيـــمأ"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 9,
+        "totalTexts": 459,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "9",
+              "text": "CBUAE Classification: Public   attaining  those  o..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "9     CBUAE Classification: Public   attaining  those  objectives  and  monitori ng  performance are"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 10,
+        "totalTexts": 511,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "10",
+              "text": "CBUAE Classification: Public   عإ وأ نيمأتلا تايلم..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "10     CBUAE Classification: Public   عإ وأ نيمأتلا تايلمع يف طسوتي يذلاو ـــ  ةدا  وأ نيمأتلا بلاط "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 11,
+        "totalTexts": 499,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "11",
+              "text": "CBUAE Classification: Public   1 - 22   :صيخرتلا  ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "11     CBUAE Classification: Public   1 - 22   :صيخرتلا    فرصملا نع رداص صيخرت  تامدخ  ميدقتل  بلطل"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 12,
+        "totalTexts": 518,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "12",
+              "text": "CBUAE Classification: Public           1 - 3 0   \"..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "12     CBUAE Classification: Public           1 - 3 0   \" نيمأتلا ةداعإ ةداعإ \" :    نيمأتلا ديعم ما"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 13,
+        "totalTexts": 517,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "13",
+              "text": "CBUAE Classification: Public   1 - 38   :يلفاكتلا ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "13     CBUAE Classification: Public   1 - 38   :يلفاكتلا نيمأتلا   ظنت ـــ قاعت مي ـــ  يعامج يد  نم"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 14,
+        "totalTexts": 416,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "14",
+              "text": "CBUAE Classification: Public     .ب   ف ـــ   ً ع ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "14     CBUAE Classification: Public     .ب   ف ـــ   ً ع ر ا   ل ش ــ  ةقطنمب  ةسسؤم  ةكر ح ــ ةيلام"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 15,
+        "totalTexts": 384,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "15",
+              "text": "CBUAE Classification: Public     .ج     ً ن ا ي ب ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "15     CBUAE Classification: Public     .ج     ً ن ا ي ب ا    يتلا  ةفاضملا  ةميقلا  حضوي  قوس  ىلإ "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 16,
+        "totalTexts": 405,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "16",
+              "text": "CBUAE Classification: Public    يلثممل  ايلعلا ةرا..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "16     CBUAE Classification: Public    يلثممل  ايلعلا ةرادلإاو نيمأتلا طيسو ظوملاو ــــ صختملا  نيف "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 17,
+        "totalTexts": 422,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "17",
+              "text": "CBUAE Classification: Public                     I..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "17     CBUAE Classification: Public                     IV .   داشرتسلاا   ريياعمب   ةعومجم   لمعلا "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 18,
+        "totalTexts": 450,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "18",
+              "text": "CBUAE Classification: Public   2 - 9    ىندلأا دحل..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "18     CBUAE Classification: Public   2 - 9    ىندلأا دحلا ءافيتسا بلطلا مدقم ىلع بجي  ،صيخرت ةئف لك"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 19,
+        "totalTexts": 409,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "19",
+              "text": "CBUAE Classification: Public     ً ي ف ا ض إ ا  بج..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "19     CBUAE Classification: Public     ً ي ف ا ض إ ا  بجيو .  يكنبلا نامضلا ميدقت  يزكرملا فرصملا ى"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 20,
+        "totalTexts": 458,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "20",
+              "text": "CBUAE Classification: Public     ىلع لاأ   محتلا  ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "20     CBUAE Classification: Public     ىلع لاأ   محتلا  غلبم  زواجتي ـــ  ل نيسمخ     فلأ ( 50,000 "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 21,
+        "totalTexts": 431,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "21",
+              "text": "CBUAE Classification: Public   2 - 17   جي لا ــ ف..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "21     CBUAE Classification: Public   2 - 17   جي لا ــ ف حتف زو ــ سول عور ــ  لاإ نيمأتلا طي   ةقف"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 22,
+        "totalTexts": 394,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "22",
+              "text": "CBUAE Classification: Public           .ح    و   ً..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "22     CBUAE Classification: Public           .ح    و   ً ق ف و   ي ك ن ب   ن ا م ض   ب ا ط خ  ةدامل"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 23,
+        "totalTexts": 435,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "23",
+              "text": "CBUAE Classification: Public     .ـه    وأ يئاضق س..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "23     CBUAE Classification: Public     .ـه    وأ يئاضق سراح نييعت ريدم    يأ وأ لوؤسم    نيمأتلا طي"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 24,
+        "totalTexts": 388,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "24",
+              "text": "CBUAE Classification: Public   ( ةداملا 4 ةرمتسم ت..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "24     CBUAE Classification: Public   ( ةداملا 4 ةرمتسم تابلطتم )   Article (4) On - Going Requireme"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 25,
+        "totalTexts": 346,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "25",
+              "text": "CBUAE Classification: Public     .ب    طيسو  تلاما..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "25     CBUAE Classification: Public     .ب    طيسو  تلاماعت  نوكت  نأ  بجي عدم هئلامع عم نيمأتلا و  "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 26,
+        "totalTexts": 356,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "26",
+              "text": "CBUAE Classification: Public   ( ةداملا 5 ةهازنلاو..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "26     CBUAE Classification: Public   ( ةداملا 5 ةهازنلاو ةرادجلا ةيلمع )   Article (5) Fit and Prop"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 27,
+        "totalTexts": 375,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "27",
+              "text": "CBUAE Classification: Public   5 - 3    تلاهؤملاب ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "27     CBUAE Classification: Public   5 - 3    تلاهؤملاب  ايلعلا  ةرادلإا  عتمتت  نأ  بجي  تاربخلاو "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 28,
+        "totalTexts": 367,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "28",
+              "text": "CBUAE Classification: Public                   II ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "28     CBUAE Classification: Public                   II .   و  ةربخ  هيدل  نوكي  نأ  ةيلمع  يف  رطا"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 29,
+        "totalTexts": 457,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "29",
+              "text": "CBUAE Classification: Public     .ب    نأ نوكي    ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "29     CBUAE Classification: Public     .ب    نأ نوكي    نع لقت لا ةيلمع ةربخ هيدل سمخ   ( 5  عرفو ع"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 30,
+        "totalTexts": 448,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "30",
+              "text": "CBUAE Classification: Public       ق   ن م     ب  ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "30     CBUAE Classification: Public       ق   ن م     ب  ل نيلوخملا  صاخشلأا     ل   ب   ق   ن م نيف"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 31,
+        "totalTexts": 427,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "31",
+              "text": "CBUAE Classification: Public   6 - 5   و  ضعب ليدع..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "31     CBUAE Classification: Public   6 - 5   و  ضعب ليدعت بلطي نأ يزكرملا فرصملل  تايقافتا ماكحأو ط"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 32,
+        "totalTexts": 340,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "32",
+              "text": "CBUAE Classification: Public    ،اهديدجتو ةينيمأتل..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "32     CBUAE Classification: Public    ،اهديدجتو ةينيمأتلا ةيطغتلا ءدب دنع  ةيقافتإ تماد ام لا  ةطاس"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 33,
+        "totalTexts": 410,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "33",
+              "text": "CBUAE Classification: Public    يلئاعلا يلفاكتلا ن..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "33     CBUAE Classification: Public    يلئاعلا يلفاكتلا نيمأتلاو ةايحلا ىلع  ةايحلا  ىلع  نيمأتلا  ق"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 34,
+        "totalTexts": 380,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "34",
+              "text": "CBUAE Classification: Public    ،حبرلا/ضئافلا ام  ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "34     CBUAE Classification: Public    ،حبرلا/ضئافلا ام    نكي مــل قح يفاص ـــ  قو  ةيكلملا دـق    "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 35,
+        "totalTexts": 437,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "35",
+              "text": "CBUAE Classification: Public   ( ةداملا 9 ةيسسؤملا..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "35     CBUAE Classification: Public   ( ةداملا 9 ةيسسؤملا ةمكوحلا )   Article (9) Corporate  Governa"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 36,
+        "totalTexts": 394,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "36",
+              "text": "CBUAE Classification: Public    لامعلأا  وأ  ةلماع..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "36     CBUAE Classification: Public    لامعلأا  وأ  ةلماعملا  ءوس  نم .ةيماقتنلاا           9 - 3   "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 37,
+        "totalTexts": 471,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "37",
+              "text": "CBUAE Classification: Public           10 - 5   و ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "37     CBUAE Classification: Public           10 - 5   و لا عقت يلوؤسم ة   ةيئاهنلا    ةمكوح راطإ نع"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 38,
+        "totalTexts": 360,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "38",
+              "text": "CBUAE Classification: Public    طيسو يلثمم ىلع اهض..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "38     CBUAE Classification: Public    طيسو يلثمم ىلع اهضرع بجيف هلحل نيمأتلا ا .   Insurance  Broke"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 39,
+        "totalTexts": 322,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "39",
+              "text": "CBUAE Classification: Public   لباقم    فادهأو  ري..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "39     CBUAE Classification: Public   لباقم    فادهأو  ريياعم ؛لاثتملاا                   III .     "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 40,
+        "totalTexts": 552,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "40",
+              "text": "CBUAE Classification: Public    ةين نسحب ريراقتلا ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "40     CBUAE Classification: Public    ةين نسحب ريراقتلا هذه  مهنأ   ن م   ا ً ي أ   ا و ك ه ت ن ا  "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 41,
+        "totalTexts": 416,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "41",
+              "text": "CBUAE Classification: Public    يذلا ينمزلا راطلإا..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "41     CBUAE Classification: Public    يذلا ينمزلا راطلإا يفو لكشلاب قيقدتلا نع .يزكرملا فرصملا هلبق"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 42,
+        "totalTexts": 403,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "42",
+              "text": "CBUAE Classification: Public   عو ،ضيوفتلا ــ محت ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "42     CBUAE Classification: Public   عو ،ضيوفتلا ــ محت مد ـــ  ليمعلا لي  ةيلام فيلاكت يأ نع جتنت "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 43,
+        "totalTexts": 337,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "43",
+              "text": "CBUAE Classification: Public    تاذ  ىرخأ  تامولعم..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "43     CBUAE Classification: Public    تاذ  ىرخأ  تامولعم ىلع  رثؤت  ةلص    رارق ليمعلا ؛           "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 44,
+        "totalTexts": 446,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "44",
+              "text": "CBUAE Classification: Public     ك .   تو تابلاطمل..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "44     CBUAE Classification: Public     ك .   تو تابلاطملا ميدقت ىلع درلا ريفو    تاءارجلإا حرشو تاب"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 45,
+        "totalTexts": 405,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "45",
+              "text": "CBUAE Classification: Public     .ص   ديرب  ناونع ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "45     CBUAE Classification: Public     .ص   ديرب  ناونع  لامعتسا    ينورتكلا .نيمأتلا طيسول دوعي يم"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 46,
+        "totalTexts": 399,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "46",
+              "text": "CBUAE Classification: Public     .أ    ةطبترملا  ن..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "46     CBUAE Classification: Public     .أ    ةطبترملا  نهملا  ةطشنأ  ةسرامم   فلاخب  نيمأتلاب لا   "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 47,
+        "totalTexts": 306,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "47",
+              "text": "CBUAE Classification: Public     .ح    تاموصخلا  ن..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "47     CBUAE Classification: Public     .ح    تاموصخلا  نم  عون  يأ  ميدقت  نم ءلامعلل تآفاكملا    ا"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 48,
+        "totalTexts": 392,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "48",
+              "text": "CBUAE Classification: Public     .ـه   ؛ةطاسولا تا..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "48     CBUAE Classification: Public     .ـه   ؛ةطاسولا تامدخ ءاغلإ قوقح   cancellation  rights  in  "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 49,
+        "totalTexts": 422,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "49",
+              "text": "CBUAE Classification: Public   ( ةداملا 14 ريراقتل..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "49     CBUAE Classification: Public   ( ةداملا 14 ريراقتلا عفر تابلطتم )   Article (14) Reporting Re"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 50,
+        "totalTexts": 310,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "50",
+              "text": "CBUAE Classification: Public   ( ةداملا 15 تلاجسلا..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "50     CBUAE Classification: Public   ( ةداملا 15 تلاجسلاب ظافتحلإا )   Article (15) Record Keeping "
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 51,
+        "totalTexts": 428,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "51",
+              "text": "CBUAE Classification: Public    نوكي  حاصفلإا   ن ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "51     CBUAE Classification: Public    نوكي  حاصفلإا   ن ي ن ا و ق ل ل   ا ً ق ف و   ا ً ب و ل ط م ؛"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 52,
+        "totalTexts": 433,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "52",
+              "text": "CBUAE Classification: Public   17 - 2   لوؤسم  نيم..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "52     CBUAE Classification: Public   17 - 2   لوؤسم  نيمأتلا  ءاطسو  لظي  نأ  بجي ي  ن  اهب موقي تا"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 53,
+        "totalTexts": 391,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "53",
+              "text": "CBUAE Classification: Public    يف ديهعتلا ططخ ةشق..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "53     CBUAE Classification: Public    يف ديهعتلا ططخ ةشقانم ىلع نيمأتلا ءاطسو  يزكرملا فرصملا عم قي"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 54,
+        "totalTexts": 390,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "54",
+              "text": "CBUAE Classification: Public               .ب   ؛ء..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "54     CBUAE Classification: Public               .ب   ؛ءاغللإا رارق ىلع ءاكرشلا ةقفاوم   the  partn"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 55,
+        "totalTexts": 268,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "55",
+              "text": "CBUAE Classification: Public           21 - 2    ف..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "55     CBUAE Classification: Public           21 - 2    فرصملا  نيناوق  ماكحأب  للاخلإا  نود  تاءارج"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      }
+    ]
+  },
+  "Circular No. 5 of 2025 - Update of the List High Risk.pdf": {
+    "totalPages": 2,
+    "pages": [
+      {
+        "pageNumber": 1,
+        "totalTexts": 1206,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "خيراتلا   1   ويلوي   2025     01 July   2025    Date   مقر ميمعت   MOEC/AML/00 5 / 202 5   MOEC/AML"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 2,
+        "totalTexts": 938,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "ميمعتلاو   ( مقر 4  ةنسل ) 2024    ةيلاع لودلا ةمئاق ثيدحت نأـشب   ر ي ب ا د ت ل ا   ث ي د ح ت و   ،"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      }
+    ]
+  },
+  "federal-decree-law-no-20-of-2018.pdf": {
+    "totalPages": 12,
+    "pages": [
+      {
+        "pageNumber": 1,
+        "totalTexts": 357,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "~ 1   ~     Federal Decree - law  No.  ( 20 ) of 2018   ON ANTI - MONEY LAUNDERING AND COMBATING THE"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 2,
+        "totalTexts": 492,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "~ 2   ~     -   Governor:    G  overnor of  Central Bank   -   Committee:   National Committee for C"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 3,
+        "totalTexts": 294,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "~ 3   ~     -   Client:   A ny person involved in  or  attempts to carry out any of   the  activitie"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 4,
+        "totalTexts": 518,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "~ 4   ~     b -   P roviding , collect ing , prepar ing   or   obtain ing  P roceeds  or  facilitati"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 5,
+        "totalTexts": 406,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "~ 5   ~       Article ( 6 )   1 -   Without prejudice to  the  provisions   of  Article ( 5 )  of th"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 6,
+        "totalTexts": 365,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "~ 6   ~     recipient , whether   directly or indirectly ,   according to   international agreements"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 7,
+        "totalTexts": 328,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "~ 7   ~     Article ( 13 )   The Supervisory Authorities shall, each within the scope of its  compet"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 8,
+        "totalTexts": 291,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "~ 8   ~     Article  ( 16 )   1 -   F inancial institutions and  designated nonfinancial business es"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 9,
+        "totalTexts": 226,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "~ 9   ~     2 -   The co mpetent   authorities shall  exchange  information  related to the Crime  p"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 10,
+        "totalTexts": 285,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "~ 10   ~     a)   If he  abuses   his influence or the  power   granted   to him by his profession o"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 11,
+        "totalTexts": 319,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "~ 11   ~     3 -   In the cases of the   death of the accused  in  a  crime  punishable  under the  "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 12,
+        "totalTexts": 113,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "~ 12   ~     Article (31)   I mprisonment  or a fine   of no less than AED 10,000 (ten thousand dirh"
+          ],
+          "mixed": []
+        }
+      }
+    ]
+  },
+  "Implementation Guide on Customer Risk Assessment CRA.pdf": {
+    "totalPages": 11,
+    "pages": [
+      {
+        "pageNumber": 1,
+        "totalTexts": 71,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "ANTI - MONEY LAUNDERING AND COMBATING THE FINANCING OF TERRORISM  AND ILLEGAL ORGANISATIONS         "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 2,
+        "totalTexts": 186,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Implementation Guid e for DNFBPs   on  Customer   Risk - Assessment  (CRA)                          "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 3,
+        "totalTexts": 196,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Implementation Guid e for DNFBPs   on  Customer   Risk - Assessment  (CRA)                          "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 4,
+        "totalTexts": 195,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Implementation Guid e for DNFBPs   on  Customer   Risk - Assessment  (CRA)                          "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 5,
+        "totalTexts": 211,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Implementation Guid e for DNFBPs   on  Customer   Risk - Assessment  (CRA)                          "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 6,
+        "totalTexts": 337,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Implementation Guid e for DNFBPs   on  Customer   Risk - Assessment  (CRA)                          "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 7,
+        "totalTexts": 209,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Implementation Guid e for DNFBPs   on  Customer   Risk - Assessment  (CRA)                          "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 8,
+        "totalTexts": 227,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Implementation Guid e for DNFBPs   on  Customer   Risk - Assessment  (CRA)                          "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 9,
+        "totalTexts": 202,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Implementation Guid e for DNFBPs   on  Customer   Risk - Assessment  (CRA)                          "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 10,
+        "totalTexts": 188,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Implementation Guid e for DNFBPs   on  Customer   Risk - Assessment  (CRA)                          "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 11,
+        "totalTexts": 97,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Implementation Guid e for DNFBPs   on  Customer   Risk - Assessment  (CRA)                          "
+          ],
+          "mixed": []
+        }
+      }
+    ]
+  },
+  "Notice 4158.2025 re Cyber Security Advisory (1).pdf": {
+    "totalPages": 9,
+    "pages": [
+      {
+        "pageNumber": 1,
+        "totalTexts": 73,
+        "arabicTexts": 0,
+        "englishTexts": 17,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Notice No. : CBUAE/BIS/2025/4158",
+            "Date : 28/07/2025",
+            "Classification : Restricted",
+            "To : All Licensed Financial Institutions",
+            "Attention : Chief Executive Officer / Managing Director / General Manager"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 2,
+        "totalTexts": 34,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "TLP: WHITE               Multiple Critical Vulnerabilities in Tridium Niagara Framework    Tracking "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 3,
+        "totalTexts": 258,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "TLP: WHITE     1       ADVISORY     https://www.csc.gov.ae/       The UAE Cyber Security Council has"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 4,
+        "totalTexts": 77,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "TLP: WHITE     2       ADVISORY     https://www.csc.gov.ae/         •   Immediately apply all availa"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 5,
+        "totalTexts": 40,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "TLP: WHITE               H igh - Severity   Vulnerabilities in Tableau Server   Tracking #:43231 7 5"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 6,
+        "totalTexts": 172,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "TLP: WHITE     1       ADVISORY     https://www.csc.gov.ae/       The UAE Cyber Security Council has"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 7,
+        "totalTexts": 37,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "TLP: WHITE     2       ADVISORY     https://www.csc.gov.ae/   •   Review server and network logs for"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 8,
+        "totalTexts": 38,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "TLP: WHITE               Critical Authentication Bypass Vulnerability in Node - SAM L   Tracking #:4"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 9,
+        "totalTexts": 200,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "TLP: WHITE     1       ADVISORY     https://www.csc.gov.ae/       The UAE Cyber Security  Council ha"
+          ],
+          "mixed": []
+        }
+      }
+    ]
+  },
+  "Notice No. 5737.2021 re Updated Guidance on Targeted Financial Sanctions and Typologies ExOff IEC.pdf": {
+    "totalPages": 92,
+    "pages": [
+      {
+        "pageNumber": 1,
+        "totalTexts": 288,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "Page  1   of  2          راعشإ مقر   :   CBUAE/BSD/N/2021/5737     CBUAE/BSD/N/2021/5737    :   Noti"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 2,
+        "totalTexts": 85,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            "Page  2   of  2     CBUAE/BSD/N/2021/5737     كاتع بااجي  شإوكذاامرا تاماانلااااااسمرا  ام ت  ةاؤااا"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 3,
+        "totalTexts": 89,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Guidance on Targeted  Financial Sanctions   For  F inancial  I nstitutions (FIs ),  D esignated  N o"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 4,
+        "totalTexts": 129,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "1",
+              "text": "Acronyms    DNFBPs   Designated non - financial bu..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "1     Acronyms    DNFBPs   Designated non - financial business es   and professions   Executive Offi"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 5,
+        "totalTexts": 377,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "2",
+              "text": "Contents   Acronyms   ..............................."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "2     Contents   Acronyms   ................................ ................................ ......"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 6,
+        "totalTexts": 285,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "3",
+              "text": "Overview of Targeted  Financial Sanctions   The Un..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "3     Overview of Targeted  Financial Sanctions   The United Nations Security Council   (UNSC)   is "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 7,
+        "totalTexts": 201,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "4",
+              "text": "Section 1:  Legal  F ramework   The  following lis..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "4     Section 1:  Legal  F ramework   The  following list comprises  the relevant  federal l aw   an"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 8,
+        "totalTexts": 215,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "5",
+              "text": "o   The  f reezing  of economic resources also inc..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "5     o   The  f reezing  of economic resources also includes preventing their use to obtain funds  "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 9,
+        "totalTexts": 198,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "6",
+              "text": "1.   Islamic State in Iraq and the Levant ( Da'esh..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "6     1.   Islamic State in Iraq and the Levant ( Da'esh ), Al - Qaida ,   and associated individual"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 10,
+        "totalTexts": 253,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "7",
+              "text": "relevant controls and procedures are in place to m..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "7     relevant controls and procedures are in place to maintain relevant and up - to - date controls"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 11,
+        "totalTexts": 219,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "8",
+              "text": "Funds and other financial assets  subject to sanct..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "8     Funds and other financial assets  subject to sanctions are ,   for example ,   the following :"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 12,
+        "totalTexts": 174,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "9",
+              "text": "j.   Patents,  trademarks,  copyrights,  trade  na..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "9     j.   Patents,  trademarks,  copyrights,  trade  names,  franchises,  g oodwill,  and  other  f"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 13,
+        "totalTexts": 236,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "10",
+              "text": "Step 2  –   Screen    FIs, DNFBPs, and VASPs must ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "10     Step 2  –   Screen    FIs, DNFBPs, and VASPs must u ndertake  regular and   ongoing screening"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 14,
+        "totalTexts": 303,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "11",
+              "text": "Confirmed  match   A confirmed match is when an  i..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "11     Confirmed  match   A confirmed match is when an  individual , entity,  or  group  matches  al"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 15,
+        "totalTexts": 233,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "12",
+              "text": "b.   Derived or generated from funds   or other as..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "12     b.   Derived or generated from funds   or other assets   under item (a); or   c.   Any  indiv"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 16,
+        "totalTexts": 228,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "13",
+              "text": "o   The full name of th e ‘confirmed match’ .  Att..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "13     o   The full name of th e ‘confirmed match’ .  Attach ID documents   of the ‘confirmed match’"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 17,
+        "totalTexts": 240,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "14",
+              "text": "i nsurance company must  also s ubmit an FFR in go..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "14     i nsurance company must  also s ubmit an FFR in goAML   with details of the insurance agreeme"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 18,
+        "totalTexts": 173,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "15",
+              "text": "A cryptocurrency exchange identifies a confirmed m..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "15     A cryptocurrency exchange identifies a confirmed match (Person A) when  screening its custome"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 19,
+        "totalTexts": 184,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "16",
+              "text": "Reporting STRs / SARs   FIs, DNFBPs, and VASPs sho..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "16     Reporting STRs / SARs   FIs, DNFBPs, and VASPs should be able to differentiate between   case"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 20,
+        "totalTexts": 194,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "17",
+              "text": "is not listed   locally or by the UNSC ; however, ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "17     is not listed   locally or by the UNSC ; however, the fact that Person A is  subject to inter"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 21,
+        "totalTexts": 177,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "18",
+              "text": "In implementing TFS, t he criterion to be taken in..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "18     In implementing TFS, t he criterion to be taken into account when assessing whether a   legal"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 22,
+        "totalTexts": 79,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "19",
+              "text": "be frozen since they are not designated and there ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "19     be frozen since they are not designated and there is no legal evidence to suggest that they a"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 23,
+        "totalTexts": 172,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "20",
+              "text": "f.   having the right to use all or part of the as..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "20       f.   having the right to use all or part of the assets of that legal person, entity, group "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 24,
+        "totalTexts": 142,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "21",
+              "text": "Important:   If an FI, DNFBP, or VASP implements f..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "21         Important:   If an FI, DNFBP, or VASP implements freezing measures based on the ‘ acting "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 25,
+        "totalTexts": 243,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "22",
+              "text": "d.   Constraining  the  powers   of  the  b oard  ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "22     d.   Constraining  the  powers   of  the  b oard  members,  supervisory  or  executive  manag"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 26,
+        "totalTexts": 147,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "23",
+              "text": "3.   The Ministry of Justice may approve or reject..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "23       3.   The Ministry of Justice may approve or reject the use of the frozen funds   or other a"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 27,
+        "totalTexts": 145,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "24",
+              "text": "The procedure to request permission to access the ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "24     The procedure to request permission to access the frozen funds   or other assets   is the fol"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 28,
+        "totalTexts": 131,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "25",
+              "text": "The procedure to request permission to access the ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "25     The procedure to request permission to access the frozen funds is the following:   1.   Submi"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 29,
+        "totalTexts": 221,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "26",
+              "text": "Section 8:  Procedure to   C  ancel   or  L ift   ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "26       Section 8:  Procedure to   C  ancel   or  L ift   the  F reezing   M easures     Freezing p"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 30,
+        "totalTexts": 167,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "27",
+              "text": "If the application is rejected by the  Supreme Cou..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "27     If the application is rejected by the  Supreme Council , or if no response to the application"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 31,
+        "totalTexts": 190,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "28",
+              "text": "Section 9:  Requesting the Removal  or De - listin..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "28     Section 9:  Requesting the Removal  or De - listing  of a  Designation from the  Local Terror"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 32,
+        "totalTexts": 221,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "29",
+              "text": "Section 10:  Requesting the Removal  or De - listi..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "29     Section 10:  Requesting the Removal  or De - listing  of a  Designation  from  the  UN List  "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 33,
+        "totalTexts": 198,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "30",
+              "text": "A nnex A :  Frequency Asked Questions   1.   What ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "30     A nnex A :  Frequency Asked Questions   1.   What does  ‘targeted financial sanctions’   ( \" "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 34,
+        "totalTexts": 151,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "31",
+              "text": "and any interest, dividends or other income on or ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "31     and any interest, dividends or other income on or value accruing from or generated by such fu"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 35,
+        "totalTexts": 134,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "32",
+              "text": "In case  an  FI , DNFBP, or VASP determines that a..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "32     In case  an  FI , DNFBP, or VASP determines that any of the funds or other assets it holds or"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 36,
+        "totalTexts": 172,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "33",
+              "text": "Yes. You must report  any previous transactions of..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "33     Yes. You must report  any previous transactions of  designated persons , even if you do not  "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 37,
+        "totalTexts": 167,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "34",
+              "text": "In addition, Supervisory Authorities can impose ap..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "34     In addition, Supervisory Authorities can impose appropriate administrative sanctions ( e.g., "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 38,
+        "totalTexts": 166,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "35",
+              "text": "Failure by a n   FI, DNFBP, or VASP  to apply free..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "35     Failure by a n   FI, DNFBP, or VASP  to apply freezing measures, immediately or in any case w"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 39,
+        "totalTexts": 110,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "36",
+              "text": "The Cabinet Decision No. 74 of 2020 provides that ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "36     The Cabinet Decision No. 74 of 2020 provides that   FIs, DNFBPs, and VASPs  are under an obli"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 40,
+        "totalTexts": 25,
+        "arabicTexts": 0,
+        "englishTexts": 3,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "37",
+              "text": "Annex B: EO Notification / Alert System Subscripti..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Simple Guide to",
+            "he     recognizes two  anctions  ists     The UAE Local Terrorist List    issued by the UAE Federal ",
+            "37     Annex B: EO Notification / Alert System Subscription Guide"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 41,
+        "totalTexts": 80,
+        "arabicTexts": 0,
+        "englishTexts": 2,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "The United Nation Consolidated List and UAE Local  Terrorist List can be accessed from  the Executiv",
+            "tep        Access the following link  https     www . uaeiec . gov . ae   en   us   un   page  tep  "
+          ],
+          "mixed": [
+            "38"
+          ]
+        }
+      },
+      {
+        "pageNumber": 42,
+        "totalTexts": 40,
+        "arabicTexts": 0,
+        "englishTexts": 2,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "tep        Fill the Form",
+            "tep        Submit the information by clicking     ubscribe      Subscribers  will receive a confirma"
+          ],
+          "mixed": [
+            "39"
+          ]
+        }
+      },
+      {
+        "pageNumber": 43,
+        "totalTexts": 17,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Upon any update on the UAE Local  Terrorist List or the UN Consolidated  List ,  all users will rece"
+          ],
+          "mixed": [
+            "40"
+          ]
+        }
+      },
+      {
+        "pageNumber": 44,
+        "totalTexts": 81,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "41",
+              "text": "Document Version Update     Date   Section   Updat..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "41     Document Version Update     Date   Section   Update   07  Nov 2021   Full  Document   Updated"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 45,
+        "totalTexts": 48,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Typologies on the circumvention  of Targeted Sanctions against  Terrorism and the Proliferation of  "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 46,
+        "totalTexts": 80,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "1",
+              "text": "Acronyms    CBUAE   Central Bank of United Arab Em..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "1     Acronyms    CBUAE   Central Bank of United Arab Emirates    DPRK   Democratic People's Republi"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 47,
+        "totalTexts": 24,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "2",
+              "text": "UNSCR   United Nations Security Council Resolution..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "2     UNSCR   United Nations Security Council Resolution   US   United States of America   WMD   Wea"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 48,
+        "totalTexts": 279,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "3",
+              "text": "Contents   Acronyms   ..............................."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "3     Contents   Acronyms   ................................ ................................ ......"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 49,
+        "totalTexts": 201,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "4",
+              "text": "Cyberattack  on Cryptocurrency Exchange House   ....."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "4     Cyberattack  on Cryptocurrency Exchange House   ................................ ............."
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 50,
+        "totalTexts": 185,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "5",
+              "text": "Introduction   The United Nations Security Council..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "5     Introduction   The United Nations Security Council (UNSC),  pursuant  to  Chapter VII of the U"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 51,
+        "totalTexts": 215,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "6",
+              "text": "Targeted  Financial  Sanctions  related  to  Terro..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "6     Targeted  Financial  Sanctions  related  to  Terroris m   and  Terrorist  Financing   The term"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 52,
+        "totalTexts": 148,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "7",
+              "text": "T he  UNSC   notes that terrorists and terrorist g..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "7     T he  UNSC   notes that terrorists and terrorist groups raise funds through  various   means, "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 53,
+        "totalTexts": 179,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "8",
+              "text": "Continued  a ccess to bank accounts by  f oreign  ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "8       Continued  a ccess to bank accounts by  f oreign  t errorist  f ighters   Foreign terrorist "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 54,
+        "totalTexts": 112,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "9",
+              "text": "Hawala and Other Similar Service Providers (HOSSP)..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "9     Hawala and Other Similar Service Providers (HOSSP)   There are several reasons why HOSSPs pose"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 55,
+        "totalTexts": 66,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "10",
+              "text": "Funds  Sent to  Houthies  In  Yemen   The UAE auth..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "10       Funds  Sent to  Houthies  In  Yemen   The UAE authorities received intelligence showing hig"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 56,
+        "totalTexts": 173,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "11",
+              "text": "transfers are often made by electronic wire transf..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "11     transfers are often made by electronic wire transfer, credit card ,   or alternate   online  "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 57,
+        "totalTexts": 185,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "12",
+              "text": "promotion. Also, through his communication via soc..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "12     promotion. Also, through his communication via social media, he communicated  with a person f"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 58,
+        "totalTexts": 165,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "13",
+              "text": "provided support for militant activities in Afghan..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "13     provided support for militant activities in Afghanistan and Pakistan, including financial  an"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 59,
+        "totalTexts": 118,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "14",
+              "text": "Donations  to NPOs Affiliated with  Terrorist Grou..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "14       Donations  to NPOs Affiliated with  Terrorist Groups   •   On 11 October 2020, a local bank"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 60,
+        "totalTexts": 124,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "15",
+              "text": "Smuggling of   G  old   The UAE authorities provid..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "15     Smuggling of   G  old   The UAE authorities provided intelligence to the Federal Customs Auth"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 61,
+        "totalTexts": 155,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "16",
+              "text": "Circumventing Sanctions Through Trade   Trade  can..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "16     Circumventing Sanctions Through Trade   Trade  can  be  very  vulnerable  to   circumvent  sa"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 62,
+        "totalTexts": 137,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "17",
+              "text": "Trade  of Communication Devises   A Yemeni nationa..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "17     Trade  of Communication Devises   A Yemeni national supplied Yemen's Houthi Terrorist Movemen"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 63,
+        "totalTexts": 138,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "18",
+              "text": "Trade of Charcoal from Somalia   Based on UN resol..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "18     Trade of Charcoal from Somalia   Based on UN resolution no (2036) in 2012 regarding the band "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 64,
+        "totalTexts": 91,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "19",
+              "text": "•   The UAE authorities received intelligence info..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "19         •   The UAE authorities received intelligence information from informal sources of  Perso"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 65,
+        "totalTexts": 99,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "20",
+              "text": "The Use of   Virtual Assets to  S upport TF   G  r..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "20     The Use of   Virtual Assets to  S upport TF   G  roups .     Transferring funds via Bitcoin  "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 66,
+        "totalTexts": 62,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "21",
+              "text": "Amin pl eaded guilty on 11 June 2015. He admitted ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "21     Amin pl eaded guilty on 11 June 2015. He admitted to using social media platform to  provide "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 67,
+        "totalTexts": 162,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "22",
+              "text": "Targeted Financial Sanctions  R elated to  Prolife..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "22     Targeted Financial Sanctions  R elated to  Proliferation of  WMD   Recommendation  7  of  the"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 68,
+        "totalTexts": 192,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "23",
+              "text": "The term p roliferation of weapon of  mass destruc..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "23       The term p roliferation of weapon of  mass destruction (proliferation) does not limit itsel"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 69,
+        "totalTexts": 181,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "24",
+              "text": "The representative in Dalian of DCB and DCB Financ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "24     The representative in Dalian of DCB and DCB Finance undertook transactions worth  millions of"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 70,
+        "totalTexts": 158,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "25",
+              "text": "companies to move tens of mill ions of dollars thr..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "25     companies to move tens of mill ions of dollars through U S   banks in New York .   There  is "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 71,
+        "totalTexts": 109,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "26",
+              "text": "Operation  \" FASTCash \"   In its report of August ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "26     Operation  \" FASTCash \"   In its report of August 2019, the UN  Panel of experts   reported o"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 72,
+        "totalTexts": 135,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "27",
+              "text": "According to a US government alert, one incident i..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "27     According to a US government alert, one incident in 2017 saw cash withdrawn  simultaneously f"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 73,
+        "totalTexts": 188,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "28",
+              "text": "pay (with amounts varying from $200 to $1,500, wit..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "28     pay (with amounts varying from $200 to $1,500, with an average o f around $300 per  family) 3"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 74,
+        "totalTexts": 182,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "29",
+              "text": "for a low - value shipment containing   samples of..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "29     for a low - value shipment containing   samples of nickel rods/wire which were imported  from"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 75,
+        "totalTexts": 176,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "30",
+              "text": "generator from  country A ,   and originally the b..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "30     generator from  country A ,   and originally the bill of landing sa i d it was going to be re"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 76,
+        "totalTexts": 131,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "31",
+              "text": "The information was shared with the liaison custom..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "31     The information was shared with the liaison customs officer in Country B to  investigate the "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 77,
+        "totalTexts": 188,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "32",
+              "text": "an elaborate insurance scam that ,   while maint a..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "32     an elaborate insurance scam that ,   while maint aining offices in the United Kingdom,  Cypru"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 78,
+        "totalTexts": 70,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "33",
+              "text": "Figure - 3:  Website of KOGEN entity in  the  Unit..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "33     Figure - 3:  Website of KOGEN entity in  the  United Arab Emirates     The  presence  of  GEN"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 79,
+        "totalTexts": 90,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "34",
+              "text": "GENCO  N etwork   Source: The Report of the UN  Pa..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "34     GENCO  N etwork   Source: The Report of the UN  Panel of experts pursuant UNSCR 1874, S/2019/"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 80,
+        "totalTexts": 120,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "35",
+              "text": "Pyongyang), which is linked to a Singaporean compa..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "35     Pyongyang), which is linked to a Singaporean company named Pan Systems (S) Pte  Ltd (Pan Syst"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 81,
+        "totalTexts": 66,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "36",
+              "text": "Figure - 6:  Accounts  controlled by Glocom     So..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "36     Figure - 6:  Accounts  controlled by Glocom     Source:  Report of the  UN  Panel of Experts "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 82,
+        "totalTexts": 220,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "37",
+              "text": "TFS  -   TF  Red Flags   Considering the above typ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "37     TFS  -   TF  Red Flags   Considering the above typologies, the following are some red flags  "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 83,
+        "totalTexts": 122,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "38",
+              "text": "concern), specifically countries (and adjacent cou..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "38     concern), specifically countries (and adjacent countries) under conflict and/or  political in"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 84,
+        "totalTexts": 233,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "39",
+              "text": "TFS  –   PF  Red Flag s   Below are the Red - flag..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "39     TFS  –   PF  Red Flag s   Below are the Red - flags and  Indicators of Possible Proliferation"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 85,
+        "totalTexts": 183,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "40",
+              "text": "•   Involvement of items controlled under WMD expo..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "40     •   Involvement of items controlled under WMD export control regimes or national  c ontrol re"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 86,
+        "totalTexts": 58,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "41",
+              "text": "o   The activity developed or financed does not re..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "41     o   The activity developed or financed does not relate to the original or   intended  purpose"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 87,
+        "totalTexts": 149,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "42",
+              "text": "References   ABC news, 2015.  US officials Ask HOw..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "42     References   ABC news, 2015.  US officials Ask HOw   ISIS Got So Many Toyota Trucks .  [Onlin"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 88,
+        "totalTexts": 115,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "43",
+              "text": "Panel of Experts pursuant to UNSCR 1874, S/2020/15..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "43     Panel of Experts pursuant to UNSCR 1874, S/2020/151.  Report of the Panel of  Experts establi"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 89,
+        "totalTexts": 58,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "44",
+              "text": "Available at:   https://www.fatf - gafi.org/media/..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "44     Available at:   https://www.fatf - gafi.org/media/fatf/documents/reports/Emerging - Terrorist"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 90,
+        "totalTexts": 101,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "45",
+              "text": "Document  Change Log   The following main amendmen..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "45     Document  Change Log   The following main amendments have been made to the Typologies on Circ"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 91,
+        "totalTexts": 34,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "46",
+              "text": "35  -   39   Rearrange the TFS -   Red flags   To ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "46     35  -   39   Rearrange the TFS -   Red flags   To  rearrange  the  red  flags  to  include  t"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 92,
+        "totalTexts": 246,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Note - 1 :   Definition  and examples  of  “f unds or   o ther   a ssets ”   as per the  published  "
+          ],
+          "mixed": []
+        }
+      }
+    ]
+  },
+  "Registered Hawala Providers Regulation_0.pdf": {
+    "totalPages": 13,
+    "pages": [
+      {
+        "pageNumber": 1,
+        "totalTexts": 0,
+        "arabicTexts": 0,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 2,
+        "totalTexts": 0,
+        "arabicTexts": 0,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 3,
+        "totalTexts": 0,
+        "arabicTexts": 0,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 4,
+        "totalTexts": 0,
+        "arabicTexts": 0,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 5,
+        "totalTexts": 0,
+        "arabicTexts": 0,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 6,
+        "totalTexts": 0,
+        "arabicTexts": 0,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 7,
+        "totalTexts": 0,
+        "arabicTexts": 0,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 8,
+        "totalTexts": 0,
+        "arabicTexts": 0,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 9,
+        "totalTexts": 0,
+        "arabicTexts": 0,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 10,
+        "totalTexts": 0,
+        "arabicTexts": 0,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 11,
+        "totalTexts": 0,
+        "arabicTexts": 0,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 12,
+        "totalTexts": 0,
+        "arabicTexts": 0,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 13,
+        "totalTexts": 0,
+        "arabicTexts": 0,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [],
+          "mixed": []
+        }
+      }
+    ]
+  },
+  "Typology Report_MVTS Jul 2022.pdf": {
+    "totalPages": 18,
+    "pages": [
+      {
+        "pageNumber": 1,
+        "totalTexts": 69,
+        "arabicTexts": 1,
+        "englishTexts": 0,
+        "numberedItems": 0,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [
+            ": ر ش ن ل ا   خ         ي ر ا ت 1    سرام 2022   TYPOLOGIES    IN THE MONEY OR VALUE TRANSFER  SERVI"
+          ],
+          "english": [],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 2,
+        "totalTexts": 40,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "1",
+              "text": "Abstract                                          ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "1     Abstract                                                 “ This Typology Report (the “Report”)"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 3,
+        "totalTexts": 84,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "2",
+              "text": "TABLE OF CONTENTS:     A BSTRACT   .................."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "2         TABLE OF CONTENTS:     A BSTRACT   ................................ ......................"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 4,
+        "totalTexts": 250,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "3",
+              "text": "INTRODUCTION     The  Supervisory Authorities Sub ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "3     INTRODUCTION     The  Supervisory Authorities Sub - Committee   (SSC), the Financial Intellige"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 5,
+        "totalTexts": 86,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "4",
+              "text": "G  LOSSARY:     ANTI   MONEY LAUNDERING AND   COMB..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "4      G  LOSSARY:     ANTI   MONEY LAUNDERING AND   COMBATING THE FINANC ING  OF TERRORISM   AML/CF"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 6,
+        "totalTexts": 153,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "5",
+              "text": "TYPOLOGIES AND RED FLAGS:                         ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "5       TYPOLOGIES AND RED FLAGS:                                                                   "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 7,
+        "totalTexts": 221,
+        "arabicTexts": 0,
+        "englishTexts": 4,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "6",
+              "text": "1.1.   Structuring      Segregating large volume o..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Key Red Flags",
+            "Key Red Flags",
+            "Key Red Flags",
+            "6                                                                                                   "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 8,
+        "totalTexts": 197,
+        "arabicTexts": 0,
+        "englishTexts": 6,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "7",
+              "text": "   Sudden increase in the value or annual turnove..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Key Red Flags",
+            "Key Red Flags",
+            "Key Red Flags",
+            "Key Red Flags",
+            "Key Red Flags"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 9,
+        "totalTexts": 216,
+        "arabicTexts": 0,
+        "englishTexts": 5,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "8",
+              "text": "Customer : Corporate    Products : Foreign Currenc..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Key Red Flags",
+            "Key Red Flags",
+            "Key Red Flags",
+            "Key Red Flags",
+            "8                                                                                                   "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 10,
+        "totalTexts": 188,
+        "arabicTexts": 0,
+        "englishTexts": 5,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "9",
+              "text": "Remittance to high - risk countries      Sending m..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Key Red Flags",
+            "Key Red Flags",
+            "Key Red Flags",
+            "Key Red Flags",
+            "9                                                                                                   "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 11,
+        "totalTexts": 202,
+        "arabicTexts": 0,
+        "englishTexts": 5,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "10",
+              "text": "Customer type : Individuals/Corporate    Product u..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "Key Red Flags",
+            "Key Red Flags",
+            "Key Red Flags",
+            "Key Red Flags",
+            "10                                                                                                  "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 12,
+        "totalTexts": 211,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "11",
+              "text": "CASE STUDIES                                      ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "11     CASE STUDIES                                                                                 "
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 13,
+        "totalTexts": 155,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "12",
+              "text": "Remittances sent or received by  n on - r esidents..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "12                                                                             Remittances sent or r"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 14,
+        "totalTexts": 255,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "13",
+              "text": "Wholesale Gold Traders accepting large amount s   ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "13                                                                               Wholesale Gold Trad"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 15,
+        "totalTexts": 216,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "14",
+              "text": "Payment from corporate entities against  out dated..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "14                                                                             Payment from corporat"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 16,
+        "totalTexts": 68,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "15",
+              "text": "Hawala Service Provider X observed an increase in ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "15                                     Hawala Service Provider X observed an increase in trading com"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 17,
+        "totalTexts": 214,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "16",
+              "text": "Hawala Service Provider Z  observed  that freight ..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "16                                                                                                 H"
+          ],
+          "mixed": []
+        }
+      },
+      {
+        "pageNumber": 18,
+        "totalTexts": 107,
+        "arabicTexts": 0,
+        "englishTexts": 1,
+        "numberedItems": 1,
+        "bulletPoints": 0,
+        "structurePatterns": {
+          "mainNumbers": [
+            {
+              "ref": "17",
+              "text": "CONCLUSION S     The  Supervisory Authorities remi..."
+            }
+          ],
+          "subNumbers": [],
+          "articles": [],
+          "listItems": [],
+          "bullets": []
+        },
+        "sampleTexts": {
+          "arabic": [],
+          "english": [
+            "17       CONCLUSION S     The  Supervisory Authorities remind FIs to remain a ware   of all regulato"
+          ],
+          "mixed": []
+        }
+      }
+    ]
+  }
+}

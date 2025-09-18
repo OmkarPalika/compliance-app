@@ -40,17 +40,32 @@ export interface ParsedSection {
   subsections: ParsedSection[];
 }
 
-export interface ParsedDocument {
-  title: string;
-  language: 'en' | 'ar';
-  sections: ParsedSection[];
+export interface ParsedItem {
+  ruleId: string;
+  docRef: string;
+  textEn: string;
+  textAr?: string;
+  category: string;
+  parent: string | null;
+  parentText?: string;
+  version?: number;
+  changes?: Array<{
+    date: Date;
+    previousText: string;
+    newText: string;
+    language: 'en' | 'ar';
+  }>;
 }
 
-export interface ComplianceItem {
-  ruleId: string;
-  textEn: string;
-  textAr: string;
+export interface ParsedDocument {
+  title: string;
+  fileName: string;
+  language: 'en' | 'ar';
+  items: ParsedItem[];
+}
+
+export interface ComplianceItem extends ParsedItem {
   status: 'pending' | 'compliant' | 'non-compliant';
-  category: string;
   documentRef: string;
+  version: number;
 }

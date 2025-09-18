@@ -15,6 +15,7 @@ interface ChecklistProps {
     status: 'yes' | 'no' | 'pending';
     category: string;
     documentRef: string;
+    language: 'en' | 'ar';
   }>;
   onUpdateStatus: (itemId: string, status: 'yes' | 'no' | 'pending') => Promise<void>;
 }
@@ -23,17 +24,20 @@ export function Checklist({ items, onUpdateStatus }: ChecklistProps) {
   const { language } = useLanguage();
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
 
-  // Get unique categories
-  const categories = ['all', ...new Set(items.map(item => item.category))];
+  // Filter items by language first
+  const languageFilteredItems = items.filter(item => item.language === language);
+  
+  // Get unique categories from language-filtered items
+  const categories = ['all', ...new Set(languageFilteredItems.map(item => item.category))];
 
-  // Filter items by category
+  // Filter by category
   const filteredItems = selectedCategory === 'all'
-    ? items
-    : items.filter(item => item.category === selectedCategory);
+    ? languageFilteredItems
+    : languageFilteredItems.filter(item => item.category === selectedCategory);
 
-  // Calculate progress
-  const completedItems = items.filter(item => item.status !== 'pending').length;
-  const progress = (completedItems / items.length) * 100;
+  // Calculate progress based on language-filtered items
+  const completedItems = languageFilteredItems.filter(item => item.status !== 'pending').length;
+  const progress = languageFilteredItems.length > 0 ? (completedItems / languageFilteredItems.length) * 100 : 0;
 
   return (
     <Card className="w-full max-w-4xl">
@@ -60,8 +64,8 @@ export function Checklist({ items, onUpdateStatus }: ChecklistProps) {
           
           <div className="text-sm text-muted-foreground">
             {language === 'en' 
-              ? `Progress: ${completedItems}/${items.length} (${Math.round(progress)}%)`
-              : `التقدم: ${completedItems}/${items.length} (${Math.round(progress)}%)`
+              ? `Progress: ${completedItems}/${languageFilteredItems.length} (${Math.round(progress)}%)`
+              : `التقدم: ${completedItems}/${languageFilteredItems.length} (${Math.round(progress)}%)`
             }
           </div>
         </div>

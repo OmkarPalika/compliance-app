@@ -1,4 +1,90 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+---
+description: Repository Information Overview
+alwaysApply: true
+---
+
+# Compliance Document Checklist Application
+
+## Summary
+A Next.js application for managing compliance document checklists. The application allows users to upload PDF documents containing compliance requirements, automatically extract and parse checklist items, track compliance status, and export data. It supports both English and Arabic languages.
+
+## Structure
+- **compliance-app/**: Main Next.js application
+  - **src/**: Source code
+    - **app/**: Next.js app router pages and API routes
+    - **components/**: React components organized by feature
+    - **lib/**: Utility functions, database connections, and business logic
+    - **contexts/**: React context providers
+    - **types/**: TypeScript type definitions
+
+## Language & Runtime
+**Language**: TypeScript
+**Version**: TypeScript 5.x
+**Framework**: Next.js 15.5.2
+**Runtime**: Node.js (implied by Next.js)
+**Package Manager**: npm
+
+## Dependencies
+**Main Dependencies**:
+- **next**: 15.5.2 - React framework
+- **react**: 19.1.0 - UI library
+- **mongodb**: 6.19.0 - MongoDB driver
+- **mongoose**: 8.18.0 - MongoDB ODM
+- **next-auth**: 4.24.11 - Authentication
+- **pdf2json**: 3.2.1 - PDF parsing
+- **exceljs**: 4.4.0 - Excel file generation
+- **i18next**: 25.5.2 - Internationalization
+- **zod**: 4.1.5 - Schema validation
+
+**Development Dependencies**:
+- **typescript**: 5.x - Type checking
+- **eslint**: 9.x - Code linting
+- **tailwindcss**: 4.x - CSS framework
+- **tsx**: 4.20.5 - TypeScript execution
+
+## Build & Installation
+```bash
+# Install dependencies
+npm install
+
+# Development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm start
+
+# Seed database
+npm run seed
+```
+
+## Database
+**Type**: MongoDB
+**Connection**: MongoDB connection string from environment variables
+**Models**: Mongoose schemas for documents and users
+**Configuration**: Connection pooling with global caching
+
+## Authentication
+**Provider**: NextAuth.js
+**Methods**: Credentials-based authentication
+**Security**: JWT with NEXTAUTH_SECRET environment variable
+**Routes**: API routes under /api/auth
+
+## PDF Processing
+**Library**: pdf2json
+**Functionality**: Extracts text from PDF documents
+**Parser**: Custom parser for checklist items with rule identification
+**Features**: Supports multi-language documents (English/Arabic)
+
+## Main Features
+**Document Upload**: Upload and parse PDF compliance documents
+**Checklist Management**: Track compliance status of individual items
+**Multi-language Support**: English and Arabic interfaces
+**Export Functionality**: Export compliance data to Excel
+**User Authentication**: Secure login and protected routes
+**Dashboard**: Overview of compliance documents and status# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
@@ -39,3 +125,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.zencoder/
+pdfs/

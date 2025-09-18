@@ -18,7 +18,7 @@ interface SearchParams {
 export default async function DashboardPage({
   searchParams,
 }: {
-  searchParams: SearchParams;
+  searchParams: Promise<SearchParams>;
 }) {
   const session = await getServerSession(authOptions);
 
@@ -26,11 +26,13 @@ export default async function DashboardPage({
     redirect('/login');
   }
 
+  const resolvedSearchParams = await searchParams;
+
   const { documents, total } = await getFilteredDocuments({
     userId: session.user.id,
-    searchTerm: searchParams?.search ?? '',
-    status: (searchParams?.status as FilterStatus) ?? 'all',
-    page: searchParams?.page ? parseInt(searchParams.page) : 1,
+    searchTerm: resolvedSearchParams?.search ?? '',
+    status: (resolvedSearchParams?.status as FilterStatus) ?? 'all',
+    page: resolvedSearchParams?.page ? parseInt(resolvedSearchParams.page) : 1,
   });
 
   return (
