@@ -2,8 +2,8 @@ import { NextResponse } from "next/server";
 import { getServerSession } from "next-auth";
 import { authOptions } from "@/lib/auth";
 import { connectToDatabase } from "@/lib/db/mongodb";
-import { Document } from "@/lib/db/models/compliance";
-import { parsePDFContent, convertToComplianceItems } from "@/lib/pdf/pdf-parser";
+import { PDFChecklistParser } from "@/lib/pdf/pdf-checklist-parser";
+import { DocumentService } from "@/lib/db/services/document.service";
 import { isValidFileType, isValidFileSize, isValidFileExtension } from "@/lib/upload-config";
 
 export async function POST(request: Request) {
@@ -45,51 +45,62 @@ export async function POST(request: Request) {
       }, { status: 400 });
     }
 
-    // Read and parse the PDF file
-    const bytes = await file.arrayBuffer();
-    const buffer = Buffer.from(bytes);
-    
-    let parsedDocument;
+    let buffer: Buffer;
     try {
-      parsedDocument = await parsePDFContent(buffer);
-    } catch (parseError) {
-      console.error("PDF parsing error:", parseError);
+      // Read the file into a buffer
+      const bytes = await file.arrayBuffer();
+      buffer = Buffer.from(new Uint8Array(bytes));
+    } catch (error) {
+      console.error('Error reading file:', error);
       return NextResponse.json({
         success: false,
-        message: "Failed to parse PDF file",
-        error: parseError instanceof Error ? parseError.message : "Unknown parsing error"
+        message: 'Failed to read the uploaded file',
+        error: error instanceof Error ? error.message : 'Unknown error'
       }, { status: 400 });
     }
-
-    // Convert parsed content to compliance items
-    const items = convertToComplianceItems(parsedDocument);
     
-    if (items.length === 0) {
-      return NextResponse.json({
-        success: false,
-        message: "No compliance items found in the document"
-      }, { status: 400 });
-    }
-
+    // Connect to database before parsing to ensure connection is ready
     await connectToDatabase();
+    const documentService = new DocumentService();
     
-    const document = await Document.create({
-      title: parsedDocument.title || file.name,
-      fileName: file.name,
-      language,
-      uploadedBy: session.user.id,
-      items,
-    });
-
-    return NextResponse.json({ 
-      success: true,
-      documentId: document._id,
-      message: "Document uploaded and processed successfully",
-      summary: {
-        totalRules: items.length,
-        sections: parsedDocument.sections.length,
+    const parser = new PDFChecklistParser(buffer);
+    
+    try {
+      const parsedDocument = await parser.parse(file.name, language);
+      
+      // Always ensure textAr is present (empty string for English)
+      parsedDocument.items = parsedDocument.items.map(item => ({
+        ...item,
+        textAr: item.textAr || ''
+      }));
+      
+      const documentId = await documentService.createDocument(parsedDocument, session.user.id);
+      
+      if (!parsedDocument.items || parsedDocument.items.length === 0) {
+        return NextResponse.json({
+          success: false,
+          message: "No compliance items found in the document"
+        }, { status: 400 });
       }
-    });
+
+      return NextResponse.json({ 
+        success: true,
+        documentId,
+        message: "Document uploaded and processed successfully",
+        summary: {
+          totalRules: parsedDocument.items.length,
+          fileName: parsedDocument.fileName,
+        }
+      });
+    } catch (error) {
+      console.error("PDF processing error:", error);
+      return NextResponse.json({
+        success: false,
+        message: "Failed to process PDF file",
+        error: error instanceof Error ? error.message : "Unknown error"
+      }, { status: 500 });
+    }
+
   } catch (error) {
     console.error("Upload error:", error);
     return NextResponse.json({ 

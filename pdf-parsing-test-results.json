@@ -1,0 +1,208 @@
+{
+  "CBUAE Draft Guidance on CDD_KYC and Recordkeeping for external consultation-2024'.pdf": {
+    "error": "No checklist items found in the document"
+  },
+  "CBUAE_EN_5808_VER1 (22).pdf": {
+    "english": {
+      "totalItems": 55,
+      "categories": [
+        "Regulatory Content",
+        "Record Keeping",
+        "Cybersecurity",
+        "General Compliance",
+        "Reporting",
+        "Risk Assessment",
+        "Anti-Money Laundering",
+        "Counter Financing of Terrorism",
+        "Sanctions",
+        "Compliance"
+      ],
+      "hasTextEn": 55,
+      "hasTextAr": 55,
+      "sampleItems": [
+        {
+          "ruleId": "RULE-1",
+          "docRef": "REG-1",
+          "textEn": "CBUAE Classification: Public ON REGULATI NSURANCE BROKERS I...",
+          "textAr": "ظن ـــــ ما طسو ـــــ مأتلا ءا ـــــ ني...",
+          "category": "Regulatory Content"
+        },
+        {
+          "ruleId": "RULE-2",
+          "docRef": "2",
+          "textEn": "CBUAE Classification: Public CONTENTS Page Subject 5 Introduction 6 Objective s 7 Scope of Applicati...",
+          "textAr": "تاـــــيوتحملا ضوملا ـــــــــــ عو ةحفصلا مدقم ـــ ة هلأا ــــــ فاد طن ـــــ طتلا قا ـــــ قيب ةدا...",
+          "category": "Record Keeping"
+        },
+        {
+          "ruleId": "RULE-3",
+          "docRef": "3",
+          "textEn": "CBUAE Classification: Public ( 16 ) 50 Protection of Personal Data and Cyber Security Article (16) (...",
+          "textAr": "ةداملا نملأاو ةيصخشلا تانايبلا ةيامح يناربيسلا ةداملا ديهعتلا ةداملا لا تايحلاص فرصم يزكرملا ةداملا ...",
+          "category": "Cybersecurity"
+        }
+      ]
+    },
+    "arabic": {
+      "totalItems": 55,
+      "categories": [
+        "Regulatory Content",
+        "Record Keeping",
+        "Cybersecurity",
+        "General Compliance",
+        "Reporting",
+        "Risk Assessment",
+        "Anti-Money Laundering",
+        "Counter Financing of Terrorism",
+        "Sanctions",
+        "Compliance"
+      ],
+      "hasTextEn": 55,
+      "hasTextAr": 55,
+      "sampleItems": [
+        {
+          "ruleId": "RULE-1",
+          "docRef": "REG-1",
+          "textEn": "CBUAE Classification: Public ON REGULATI NSURANCE BROKERS I...",
+          "textAr": "ظن ـــــ ما طسو ـــــ مأتلا ءا ـــــ ني...",
+          "category": "Regulatory Content"
+        },
+        {
+          "ruleId": "RULE-2",
+          "docRef": "2",
+          "textEn": "CBUAE Classification: Public CONTENTS Page Subject 5 Introduction 6 Objective s 7 Scope of Applicati...",
+          "textAr": "تاـــــيوتحملا ضوملا ـــــــــــ عو ةحفصلا مدقم ـــ ة هلأا ــــــ فاد طن ـــــ طتلا قا ـــــ قيب ةدا...",
+          "category": "Record Keeping"
+        },
+        {
+          "ruleId": "RULE-3",
+          "docRef": "3",
+          "textEn": "CBUAE Classification: Public ( 16 ) 50 Protection of Personal Data and Cyber Security Article (16) (...",
+          "textAr": "ةداملا نملأاو ةيصخشلا تانايبلا ةيامح يناربيسلا ةداملا ديهعتلا ةداملا لا تايحلاص فرصم يزكرملا ةداملا ...",
+          "category": "Cybersecurity"
+        }
+      ]
+    }
+  },
+  "Circular No. 5 of 2025 - Update of the List High Risk.pdf": {
+    "english": {
+      "totalItems": 2,
+      "categories": [
+        "Regulatory Content"
+      ],
+      "hasTextEn": 2,
+      "hasTextAr": 2,
+      "sampleItems": [
+        {
+          "ruleId": "RULE-1",
+          "docRef": "REG-1",
+          "textEn": "1 2025 01 July 2025 Date MOEC/AML/00 5 202 5 MOEC/AML/00 5 202 5 Circula r No. ( 5 ) 2025 . Circular...",
+          "textAr": "خيراتلا ويلوي مقر ميمعت عوضوملا مقر ميمعت ةنسل ةيلاع لودلا ةمئاق ثيدحت نأـشب ث ي د ح ت و ، ة د ّ د ش...",
+          "category": "Regulatory Content"
+        },
+        {
+          "ruleId": "RULE-2",
+          "docRef": "REG-2",
+          "textEn": "( 4 ) 2024 . . . : https://namlcftc.gov.ae/en/more/jurisdictions/count monitoring - increased - unde...",
+          "textAr": "ميمعتلاو مقر ةنسل ةيلاع لودلا ةمئاق ثيدحت نأـشب ر ي ب ا د ت ل ا ث ي د ح ت و ، ة د ّ د ش م ة ب ق ا ر ...",
+          "category": "Regulatory Content"
+        }
+      ]
+    },
+    "arabic": {
+      "totalItems": 2,
+      "categories": [
+        "Regulatory Content"
+      ],
+      "hasTextEn": 2,
+      "hasTextAr": 2,
+      "sampleItems": [
+        {
+          "ruleId": "RULE-1",
+          "docRef": "REG-1",
+          "textEn": "1 2025 01 July 2025 Date MOEC/AML/00 5 202 5 MOEC/AML/00 5 202 5 Circula r No. ( 5 ) 2025 . Circular...",
+          "textAr": "خيراتلا ويلوي مقر ميمعت عوضوملا مقر ميمعت ةنسل ةيلاع لودلا ةمئاق ثيدحت نأـشب ث ي د ح ت و ، ة د ّ د ش...",
+          "category": "Regulatory Content"
+        },
+        {
+          "ruleId": "RULE-2",
+          "docRef": "REG-2",
+          "textEn": "( 4 ) 2024 . . . : https://namlcftc.gov.ae/en/more/jurisdictions/count monitoring - increased - unde...",
+          "textAr": "ميمعتلاو مقر ةنسل ةيلاع لودلا ةمئاق ثيدحت نأـشب ر ي ب ا د ت ل ا ث ي د ح ت و ، ة د ّ د ش م ة ب ق ا ر ...",
+          "category": "Regulatory Content"
+        }
+      ]
+    }
+  },
+  "federal-decree-law-no-20-of-2018.pdf": {
+    "error": "No checklist items found in the document"
+  },
+  "Implementation Guide on Customer Risk Assessment CRA.pdf": {
+    "error": "No checklist items found in the document"
+  },
+  "Notice 4158.2025 re Cyber Security Advisory (1).pdf": {
+    "error": "No checklist items found in the document"
+  },
+  "Notice No. 5737.2021 re Updated Guidance on Targeted Financial Sanctions and Typologies ExOff IEC.pdf": {
+    "error": "No checklist items found in the document"
+  },
+  "Registered Hawala Providers Regulation_0.pdf": {
+    "error": "No text content found in PDF"
+  },
+  "Typology Report_MVTS Jul 2022.pdf": {
+    "english": {
+      "totalItems": 18,
+      "categories": [
+        "Regulatory Content",
+        "Counter Financing of Terrorism",
+        "General Compliance",
+        "Anti-Money Laundering",
+        "Risk Assessment",
+        "Know Your Customer",
+        "Record Keeping"
+      ],
+      "hasTextEn": 18,
+      "hasTextAr": 1,
+      "sampleItems": [
+        {
+          "ruleId": "RULE-1",
+          "docRef": "REG-1",
+          "textEn": ": 1 2022 TYPOLOGIES IN THE MONEY OR VALUE TRANSFER SERVICES SECTOR EMERGING RISKS IN THE UAE Supervi...",
+          "textAr": "ر ش ن ل ا خ ي ر ا ت سرام...",
+          "category": "Regulatory Content"
+        },
+        {
+          "ruleId": "RULE-2",
+          "docRef": "1",
+          "textEn": "Abstract This Typology Report (the “Report”) has been put together, as part of understanding the Mon...",
+          "textAr": "",
+          "category": "Counter Financing of Terrorism"
+        },
+        {
+          "ruleId": "RULE-3",
+          "docRef": "2",
+          "textEn": "TABLE OF CONTENTS: A BSTRACT ................................ ................................ ........",
+          "textAr": "",
+          "category": "General Compliance"
+        }
+      ]
+    },
+    "arabic": {
+      "totalItems": 1,
+      "categories": [
+        "Regulatory Content"
+      ],
+      "hasTextEn": 1,
+      "hasTextAr": 1,
+      "sampleItems": [
+        {
+          "ruleId": "RULE-1",
+          "docRef": "REG-1",
+          "textEn": ": 1 2022 TYPOLOGIES IN THE MONEY OR VALUE TRANSFER SERVICES SECTOR EMERGING RISKS IN THE UAE Supervi...",
+          "textAr": "ر ش ن ل ا خ ي ر ا ت سرام...",
+          "category": "Regulatory Content"
+        }
+      ]
+    }
+  }
+}

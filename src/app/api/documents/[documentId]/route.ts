@@ -2,14 +2,14 @@ import { NextRequest, NextResponse } from 'next/server';
 import { deleteDocument } from '@/lib/db/operations';
 
 interface RouteParams {
-  params: {
+  params: Promise<{
     documentId: string;
-  };
+  }>;
 }
 
 export async function DELETE(request: NextRequest, context: RouteParams) {
   try {
-    const { documentId } = context.params;
+    const { documentId } = await context.params;
     
     await deleteDocument(documentId);
 
